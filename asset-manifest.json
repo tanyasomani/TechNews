@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TechNews/static/css/main.2e2b2699.css",
+    "main.js": "/TechNews/static/js/main.ef99dc23.js",
+    "index.html": "/TechNews/index.html",
+    "main.2e2b2699.css.map": "/TechNews/static/css/main.2e2b2699.css.map",
+    "main.ef99dc23.js.map": "/TechNews/static/js/main.ef99dc23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e2b2699.css",
+    "static/js/main.ef99dc23.js"
+  ]
+}
